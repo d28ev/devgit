@@ -1,5 +1,4 @@
 <?php
 
-echo "hey Devendra";
-echo "how r u man";
+echo "hey basic php file how r u?";
 ?>
